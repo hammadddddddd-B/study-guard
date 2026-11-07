@@ -1,0 +1,4 @@
+.env
+studybot_data.json
+studybot_msgs.json
+__pycache__/
